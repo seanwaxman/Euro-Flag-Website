@@ -131,9 +131,9 @@ myImage.onclick = function() {
 		pFlag.textContent = "This is Greece's flag"
 	}else if (mySrc === "images/gr.png")
 	{
-		myImage.setAttribute("src", "images/ad.png");
+		myImage.setAttribute("src", "images/Andorra.png");
 		pFlag.textContent = "This is Andorra's flag"
-	}else if (mySrc === "images/ad.png")
+	}else if (mySrc === "images/Andorra.png")
 	{
 		myImage.setAttribute("src", "images/ie.png");
 		pFlag.textContent = "This is Ireland's flag"
