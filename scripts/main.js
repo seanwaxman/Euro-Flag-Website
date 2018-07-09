@@ -1,5 +1,5 @@
 var myHeading = document.querySelector("h1");
-myHeading.textContent = "Hat trick club<";
+myHeading.textContent = "Hat trick club";
 var myImage = document.querySelector("img");
 myImage = document.querySelector("img");
 myImage.onclick = function() {
